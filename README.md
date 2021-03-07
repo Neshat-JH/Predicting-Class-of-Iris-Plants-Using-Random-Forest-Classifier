@@ -1,0 +1,2 @@
+# Predicting-Class-of-Iris-Plants-Using-Random-Forest-Classifier
+Here I used the famous Iris dataset and built a model to predict the class of an Iris plant. This classic data set is by R.A. Fisher and it is knowns as the best database to be found in the pattern recognition literature. I used the scikit-learn library and used the Random Forest algorithm to create and train the model with a high prediction accuracy.  You can find the dataset here: [https://archive.ics.uci.edu/ml/datasets/iris]
